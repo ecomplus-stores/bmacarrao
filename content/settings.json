@@ -10,7 +10,7 @@
   "repository": "ecomplus-stores/bmacarrao",
   "logo": "/img/uploads/accept-lifes-a-bitch.jpg",
   "name": "Capinhas do Rock",
-  "short_name": "bmacarrao",
+  "short_name": "Capinhas do Rock",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
@@ -19,8 +19,8 @@
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/zztf3cp.jpg",
   "store_id": 51328,
-  "description": "bmacarrao",
+  "description": "Capinhas do Rock",
   "large_icon": "/img/large-icon.png"
 }
